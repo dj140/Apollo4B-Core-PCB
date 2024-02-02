@@ -194,6 +194,130 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.G2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GD2
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GD3
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GG2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GG3
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for AMA4B_Core_board\AMA4B_Core_board.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument32]
 DocumentPath=Project Outputs for AMA4B_Core_board\Design Rule Check - AMA4B_Core_board.html
 DItemRevisionGUID=
 
@@ -461,67 +585,71 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=HP Color LaserJet MFP M480 PCL-6 (V4)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=NC Drill
-OutputName1=NC Drill Files
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=IPC2581
-OutputName3=IPC-2581 Files
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
-OutputType4=Test Points
-OutputName4=Test Point Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Final
+OutputName4=Final Artwork Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=Plane
-OutputName5=Power-Plane Prints
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Drill
-OutputName7=Drill Drawing/Guides
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType8=CompositeDrill
-OutputName8=Composite Drill Drawing
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Board Stack Report
-OutputName9=Report Board Stack
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Apollo_MCU\Apollo4-Blue-PCB\AMA4B_Core_board.PcbDoc
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType10=Gerber X2
-OutputName10=Gerber X2 Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Final
-OutputName11=Final Artwork Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
@@ -530,7 +658,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=SWMJWEIO|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1|PlotBoardProfile=False|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair1_Backdrill=False|UncheckPlotDrillDrawingLayerPair1_Checked=False|UncheckPlotDrillDrawingLayerPair1_DrillType=Regular|UncheckPlotDrillDrawingLayerPair1_FileName= |UncheckPlotDrillDrawingLayerPair1_HighLayer=Mid Layer 1|UncheckPlotDrillDrawingLayerPair1_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair2_Backdrill=False|UncheckPlotDrillDrawingLayerPair2_Checked=False|UncheckPlotDrillDrawingLayerPair2_DrillType=Regular|UncheckPlotDrillDrawingLayerPair2_FileName= |UncheckPlotDrillDrawingLayerPair2_HighLayer=Mid Layer 2|UncheckPlotDrillDrawingLayerPair2_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair3_Backdrill=False|UncheckPlotDrillDrawingLayerPair3_Checked=False|UncheckPlotDrillDrawingLayerPair3_DrillType=Regular|UncheckPlotDrillDrawingLayerPair3_FileName= |UncheckPlotDrillDrawingLayerPair3_HighLayer=Mid Layer 3|UncheckPlotDrillDrawingLayerPair3_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair4_Backdrill=False|UncheckPlotDrillDrawingLayerPair4_Checked=False|UncheckPlotDrillDrawingLayerPair4_DrillType=Regular|UncheckPlotDrillDrawingLayerPair4_FileName= |UncheckPlotDrillDrawingLayerPair4_HighLayer=Mid Layer 5|UncheckPlotDrillDrawingLayerPair4_LowLayer=Mid Layer 2|UncheckPlotDrillDrawingLayerPair5_Backdrill=False|UncheckPlotDrillDrawingLayerPair5_Checked=False|UncheckPlotDrillDrawingLayerPair5_DrillType=Regular|UncheckPlotDrillDrawingLayerPair5_FileName= |UncheckPlotDrillDrawingLayerPair5_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair5_LowLayer=Mid Layer 5|UncheckPlotDrillDrawingLayerPair6_Backdrill=False|UncheckPlotDrillDrawingLayerPair6_Checked=False|UncheckPlotDrillDrawingLayerPair6_DrillType=Regular|UncheckPlotDrillDrawingLayerPair6_FileName= |UncheckPlotDrillDrawingLayerPair6_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair6_LowLayer=Mid Layer 6|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair1_Backdrill=False|UncheckPlotDrillGuideLayerPair1_Checked=False|UncheckPlotDrillGuideLayerPair1_DrillType=Regular|UncheckPlotDrillGuideLayerPair1_FileName= |UncheckPlotDrillGuideLayerPair1_HighLayer=Mid Layer 1|UncheckPlotDrillGuideLayerPair1_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair2_Backdrill=False|UncheckPlotDrillGuideLayerPair2_Checked=False|UncheckPlotDrillGuideLayerPair2_DrillType=Regular|UncheckPlotDrillGuideLayerPair2_FileName= |UncheckPlotDrillGuideLayerPair2_HighLayer=Mid Layer 2|UncheckPlotDrillGuideLayerPair2_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair3_Backdrill=False|UncheckPlotDrillGuideLayerPair3_Checked=False|UncheckPlotDrillGuideLayerPair3_DrillType=Regular|UncheckPlotDrillGuideLayerPair3_FileName= |UncheckPlotDrillGuideLayerPair3_HighLayer=Mid Layer 3|UncheckPlotDrillGuideLayerPair3_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair4_Backdrill=False|UncheckPlotDrillGuideLayerPair4_Checked=False|UncheckPlotDrillGuideLayerPair4_DrillType=Regular|UncheckPlotDrillGuideLayerPair4_FileName= |UncheckPlotDrillGuideLayerPair4_HighLayer=Mid Layer 5|UncheckPlotDrillGuideLayerPair4_LowLayer=Mid Layer 2|UncheckPlotDrillGuideLayerPair5_Backdrill=False|UncheckPlotDrillGuideLayerPair5_Checked=False|UncheckPlotDrillGuideLayerPair5_DrillType=Regular|UncheckPlotDrillGuideLayerPair5_FileName= |UncheckPlotDrillGuideLayerPair5_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair5_LowLayer=Mid Layer 5|UncheckPlotDrillGuideLayerPair6_Backdrill=False|UncheckPlotDrillGuideLayerPair6_Checked=False|UncheckPlotDrillGuideLayerPair6_DrillType=Regular|UncheckPlotDrillGuideLayerPair6_FileName= |UncheckPlotDrillGuideLayerPair6_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair6_LowLayer=Mid Layer 6|DocumentPath=C:\Users\chad.crosby.AMBIQMICRO\Altium Projects\SVN Repo\trunk\Designs\Apollo4 Blue Plus KXR EVB\v1\Design\AMAP4BPEVBv1.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777223~1,16842751~1,16973835~1,16973833~1,16973831~1,16908291~1,16908295~1,16908299~1,16908301~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\Apollo_MCU\Apollo4-Blue-PCB\AMA4B_Core_board.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -798,36 +926,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1317,6 +1415,72 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID0=1x1_Crystal
+ComponentSymbolReference0=1x1_Crystal
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID1=2x2_Crystal
+ComponentSymbolReference1=2x2_Crystal
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID2=AMA4B2KK-KXR-B2
+ComponentSymbolReference2=AMA4B2KK-KXR-B2
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID3=APOLLO4B_OUT
+ComponentSymbolReference3=APOLLO4B_OUT
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID4=Capacitor
+ComponentSymbolReference4=Capacitor
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID5=Ceramic _ANTENNA
+ComponentSymbolReference5=Ceramic _ANTENNA
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID6=Inductor
+ComponentSymbolReference6=Inductor
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID7=PESD5V0X1UB,135
+ComponentSymbolReference7=PESD5V0X1UB,135
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID8=Resistor
+ComponentSymbolReference8=Resistor
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID9=TP_PAD
+ComponentSymbolReference9=TP_PAD
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=AMAP4BPEVBKXR Rev 2.SCHLIB
+ComponentDesignItemID10=TS2306A-240GF-MSM-9_C388290
+ComponentSymbolReference10=TS2306A-240GF-MSM-9_C388290
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
