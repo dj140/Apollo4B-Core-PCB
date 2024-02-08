@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YCOMVQYH
 
 [Document2]
-DocumentPath=AMAP4BPXEVBv2.PcbDoc
+DocumentPath=AMA4B_adapter_board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SWMJWEIO
 
 [Document3]
-DocumentPath=AMAP4BPEVBKXR Rev 2.SCHLIB
+DocumentPath=AMA4B_adapter_board.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IMMMMGHQ
 
 [Document4]
-DocumentPath=AMAP4BPXEVBv2.PcbLib
+DocumentPath=AMA4B_adapter_board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
