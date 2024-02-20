@@ -304,17 +304,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document16]
+DocumentPath=P07_Peripheral.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=417B6889-A378-41BE-B831-3DC77B069E34
 Description=AMAP4BPXEVB
 AllowFabrication=0
 ParameterCount=0
-VariationCount=5
-Variation1=Designator=TP1|UniqueId=\SWBTUQSN\GYVKEJLO|Kind=1|AlternatePart= 
-Variation2=Designator=R6|UniqueId=\QWQGKPLQ\HLGZWHEI|Kind=1|AlternatePart= 
-Variation3=Designator=TP2|UniqueId=\SWBTUQSN\ZLYTEKUF|Kind=1|AlternatePart= 
-Variation4=Designator=TP3|UniqueId=\SWBTUQSN\MNDIWRIU|Kind=1|AlternatePart= 
-Variation5=Designator=TP4|UniqueId=\SWBTUQSN\ODYSTERA|Kind=1|AlternatePart= 
+VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
