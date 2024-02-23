@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YCOMVQYH
 
 [Document2]
-DocumentPath=P02_ Apollo 4 Blue Plus.SchDoc
+DocumentPath=P02_ Apollo 4 Blue.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XTPZFMWZ
 
 [Document7]
-DocumentPath=P02_ Apollo 4 Blue Plus.Harness
+DocumentPath=P02_ Apollo 4 Blue.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -314,32 +314,32 @@ DocumentPath=Project Outputs for AMA4B_Core_board\Design Rule Check - AMA4B_Core
 DItemRevisionGUID=
 
 [Parameter1]
-Name=SheetTotal
-Value=8
+Name=TBTitle
+Value=Apollo4 Blue Core Board
 
 [Parameter2]
-Name=TBApprovedBy
-Value=Daniel Lanzone
+Name=TBRevision
+Value=1.0
 
 [Parameter3]
-Name=TBBoardNumber
-Value=AMAP4BPXEVB
+Name=TBDrawnBy
+Value=Tomas
 
 [Parameter4]
 Name=TBDocumentNumber
-Value=AMAP4BPXEVB
+Value=AMAP4B
 
 [Parameter5]
-Name=TBDrawnBy
-Value=Chad Crosby
+Name=TBBoardNumber
+Value=AMAP4B
 
 [Parameter6]
-Name=TBRevision
-Value=2.0
+Name=TBApprovedBy
+Value=-----
 
 [Parameter7]
-Name=TBTitle
-Value=Apollo4 Blue Plus KXR EVB
+Name=SheetTotal
+Value=3
 
 [Configuration1]
 Name=Sources
@@ -918,6 +918,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
