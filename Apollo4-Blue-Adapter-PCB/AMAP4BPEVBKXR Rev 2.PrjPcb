@@ -329,6 +329,10 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AMAP4BPEVBKXR Rev 2\Design Rule Check - AMA4B_adapter_board.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=SheetTotal
 Value=8
@@ -1527,6 +1531,32 @@ ComponentDesignItemID17=W25N01GVZEIG_TR
 ComponentSymbolReference17=W25N01GVZEIG_TR
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
+
+[NetInfos]
+Net1=NetName=AP_USB.USB_N|NetColor=$000078F7
+Net2=NetName=AP_USB.USB_P|NetColor=$000078F7
+Net3=NetName=AP_USB_N|NetColor=$000078F7
+Net4=NetName=AP_USB_P|NetColor=$000078F7
+Net5=NetName=GND|NetColor=$00C7A956
+Net6=NetName=MIPI_CLK.MIPI_N|NetColor=$0081D45C
+Net7=NetName=MIPI_CLK.MIPI_P|NetColor=$0081D45C
+Net8=NetName=MIPI_D0.MIPI_N|NetColor=$0081D45C
+Net9=NetName=MIPI_D0.MIPI_P|NetColor=$0081D45C
+Net10=NetName=NetCN1_12|NetColor=$0081D45C
+Net11=NetName=NetCN1_13|NetColor=$0081D45C
+Net12=NetName=NetCN1_15|NetColor=$0081D45C
+Net13=NetName=NetCN1_16|NetColor=$0081D45C
+Net14=NetName=NetU1_16|NetColor=$0081D45C
+Net15=NetName=NetU1_18|NetColor=$0081D45C
+Net16=NetName=NetU1_20|NetColor=$0081D45C
+Net17=NetName=NetU1_22|NetColor=$0081D45C
+Net18=NetName=NetU1_6|NetColor=$000078F7
+Net19=NetName=NetU1_8|NetColor=$000078F7
+Net20=NetName=VBAT|NetColor=$00FF39BC
+Net21=NetName=VDD_1.8V|NetColor=$00C2A5EB
+Net22=NetName=VDD_MCU|NetColor=$00C2A5EB
+Net23=NetName=VDDAUDA|NetColor=$00C2A5EB
+Net24=NetName=VDDB|NetColor=$00C2A5EB
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
